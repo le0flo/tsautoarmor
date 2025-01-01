@@ -119,14 +119,14 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Program Files\Eclipse Adoptium\jdk-8.0.382.5-hotspot\include;C:\Program Files\Eclipse Adoptium\jdk-8.0.382.5-hotspot\include\win32</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Program Files\Eclipse Adoptium\jdk-8.0.432.6-hotspot\include;C:\Program Files\Eclipse Adoptium\jdk-8.0.432.6-hotspot\include\win32</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Program Files\Eclipse Adoptium\jdk-8.0.382.5-hotspot\lib</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Program Files\Eclipse Adoptium\jdk-8.0.432.6-hotspot\lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>$(CoreLibraryDependencies);%(AdditionalDependencies);jvm.lib</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
