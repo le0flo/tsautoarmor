@@ -1,6 +1,6 @@
-# Teamspeak Clicker | Auto armor addon
+# TS Clicker | Autoarmor
 
-Questo è un addon per il tsclicker, che aggiunge la funzione dell'autoarmor.
+Questo è un addon per il tsclicker. Aggiunge il modulo autoarmor.
 
 ### Compilazione
 
